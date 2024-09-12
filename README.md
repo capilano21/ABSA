@@ -2,7 +2,7 @@
 
 # ABSA (Aspect-Based Sentiment Analysis) with GPT-3.5 and Sentence Transformers
 
-![ABSA Workflow](./path-to-your-image-file.png)
+![ABSA Workflow](absa_work.jpg)
 
 ## Overview
 
