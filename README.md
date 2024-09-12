@@ -1,5 +1,3 @@
-Here’s a professional `README.md` for your GitHub repository, structured for clarity and completeness. It will also include a section to explain the image file you mentioned.
-
 ---
 
 # ABSA (Aspect-Based Sentiment Analysis) with GPT-3.5 and Sentence Transformers
